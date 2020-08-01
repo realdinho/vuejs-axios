@@ -1,4 +1,7 @@
-# axios-proj
+# vuejs-axios
+- VueJS
+- axios
+- Firebase
 
 ## Project setup
 ```
